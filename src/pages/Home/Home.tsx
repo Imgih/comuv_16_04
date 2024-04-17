@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 const Home: React.FC = () => {
     return (
@@ -6,6 +6,6 @@ const Home: React.FC = () => {
             <h1>HomePage</h1>
         </div>
     );
-}
+};
 
 export default Home;
