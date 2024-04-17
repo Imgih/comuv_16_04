@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comuv_16_04/static/css/main.f855e6bc.css",
+    "main.js": "/comuv_16_04/static/js/main.882feab7.js",
+    "static/js/453.f96d2451.chunk.js": "/comuv_16_04/static/js/453.f96d2451.chunk.js",
+    "index.html": "/comuv_16_04/index.html",
+    "main.f855e6bc.css.map": "/comuv_16_04/static/css/main.f855e6bc.css.map",
+    "main.882feab7.js.map": "/comuv_16_04/static/js/main.882feab7.js.map",
+    "453.f96d2451.chunk.js.map": "/comuv_16_04/static/js/453.f96d2451.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.882feab7.js"
+  ]
+}
